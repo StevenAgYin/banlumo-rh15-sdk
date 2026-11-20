@@ -1,0 +1,146 @@
+{
+  "repository": "https://github.com/RuiYanDexHand/RH15",
+  "tree_sha": "cea2272d98557c6994746dc53903f06d859dd090",
+  "retrieved": "2026-11-20",
+  "scope": "Only ROS 2 package source covered by explicit Apache License 2.0 package declarations. No claim about repository-wide licensing.",
+  "files": [
+    {
+      "path": "ros2_ws/src/rh15_ctrl/CMakeLists.txt",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/CMakeLists.txt",
+      "sha256": "fb08fa5eaea6e2a4f3ec7e5b87ac532fc127bc1ba1778a6fbcadb761ff1f9a88",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/package.xml",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/package.xml",
+      "sha256": "5eb9cab8e785600a9d606aff5512614d77c6cd32865855de0a93f56092ba763e",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/urdf/ruihand15z.urdf",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/urdf/ruihand15z.urdf",
+      "sha256": "712b1706dfea650ba3babf2d88570392cd5acf665ba15a7eb9f8a1d114e173bd",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/urdf/ur5.urdf",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/urdf/ur5.urdf",
+      "sha256": "847f9d9c612def44c45bd870e805ef46b49a6aebb343715ed4fe8557fa63dbf4",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/urdf/ruihand15y.urdf",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/urdf/ruihand15y.urdf",
+      "sha256": "fb968337c51f839e99a1bdde05962f1bcd76683800069764848c4425297f4265",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/launch/BothHands.launch.py",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/launch/BothHands.launch.py",
+      "sha256": "4edc4ffe165931fc8640fd8b06e4e6024af89efe035ab1706837a54f48a99761",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/include/can_socket.h",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/include/can_socket.h",
+      "sha256": "061da94a458587ffb07cbc20e834b31fc6850a6066a3e890c4f4fbab0884f2ee",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/include/ryhandlib_port.h",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/include/ryhandlib_port.h",
+      "sha256": "cc06cb69997b9ffd0b3622b76e32043e06197753ca1a743f9143473875efa15e",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/include/rh15_test.hpp",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/include/rh15_test.hpp",
+      "sha256": "571aa81619389993430bc84e944e2c2a6afc2738796e1b0a8cbe88ff3f445049",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/include/rh15_ctrl.hpp",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/include/rh15_ctrl.hpp",
+      "sha256": "f18f38345f430bc8125e50ab29f36a28c2150d117fff2af431e15bc34fd21c0f",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/src/rh15_ctrl.cpp",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/src/rh15_ctrl.cpp",
+      "sha256": "03b5d65cfb7df9c9851b6576bc589bd6cdf2de3d1adb7983e46c520ff9fbcbce",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/src/rh15_kinematics.cpp",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/src/rh15_kinematics.cpp",
+      "sha256": "de833be202eca17d732f65cafaed980fc089d8f89d07335146ca8f6c1a111c2f",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/src/can_socket.c",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/src/can_socket.c",
+      "sha256": "b558a66176e9a51b8ca7341534bfeb01af87f93f5afcfa02b1d8e3342bf9feef",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/src/rh15_test.cpp",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/src/rh15_test.cpp",
+      "sha256": "c6a5272c27b9ea695b337a9ad4d5358f79d32d144d8b26920ccf237664a8a8e0",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_ctrl/src/ryhandlib_port.c",
+      "upstream_path": "ryhand_sdk/cpp/rh15_ctrl/src/ryhandlib_port.c",
+      "sha256": "9a087522fbf7f98acb0648c8641815bba62d0f62c47ac8bb39eca989c25b30ca",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_msg/CMakeLists.txt",
+      "upstream_path": "ryhand_sdk/cpp/rh15_msg/CMakeLists.txt",
+      "sha256": "4aa225233e8b2ee1fee5c78af82baea3474fceb5c818e79d147170750dc0d7c6",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_msg/package.xml",
+      "upstream_path": "ryhand_sdk/cpp/rh15_msg/package.xml",
+      "sha256": "2a9a81d0fd535f0deb7c143808532a38655a1cd2f8f786e3e316ad06a0480b43",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_msg/msg/Rh15Msg.msg",
+      "upstream_path": "ryhand_sdk/cpp/rh15_msg/msg/Rh15Msg.msg",
+      "sha256": "458acfab8625346979bd32cb9f7ea6b55681129a33f3ef13456ab9315a2bd15c",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_cmd/CMakeLists.txt",
+      "upstream_path": "ryhand_sdk/cpp/rh15_cmd/CMakeLists.txt",
+      "sha256": "b93565c30860fb551eb0178efb38047a7f0b76c25f69acf555f8170350a34f24",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_cmd/package.xml",
+      "upstream_path": "ryhand_sdk/cpp/rh15_cmd/package.xml",
+      "sha256": "018c6e685ed34c232c914641240d09c084ce8449b4d30a3ab390f6eba1275fdd",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_cmd/msg/Rh15Cmd.msg",
+      "upstream_path": "ryhand_sdk/cpp/rh15_cmd/msg/Rh15Cmd.msg",
+      "sha256": "56e5228f3103d198047c5180e2167f5c952c3a30a2c1f0bcff45871e1bbece6c",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_cmd/srv/Rh15ik.srv",
+      "upstream_path": "ryhand_sdk/cpp/rh15_cmd/srv/Rh15ik.srv",
+      "sha256": "6e4eaf3caf29d332f598cf64288389ae045960c74c9187bbcc383dd0ecaceb3e",
+      "license_declaration": "Apache License 2.0"
+    },
+    {
+      "path": "ros2_ws/src/rh15_cmd/srv/Rh15fk.srv",
+      "upstream_path": "ryhand_sdk/cpp/rh15_cmd/srv/Rh15fk.srv",
+      "sha256": "b148507b928c6669d79ffd475472dc2c3ee0313278539dbcf47b3b77e7addf9b",
+      "license_declaration": "Apache License 2.0"
+    }
+  ]
+}

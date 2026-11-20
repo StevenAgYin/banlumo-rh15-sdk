@@ -1,0 +1,5 @@
+Banlumo RH15 integration source preview
+
+Selected source originates from RuiYanDexHand/RH15; individual imported ROS 2 package manifests declare Apache License 2.0. Repository-wide LICENSE/NOTICE files were not present in the reviewed tree. Original author attribution: package maintainer "zhang". Existing source notices are retained. No new upstream copyright date or owner is inferred.
+
+Banlumo modified package maintainer contact metadata and added original English guides and structural validation. Protocols, topics and controller behavior are unchanged. Full provenance is in UPSTREAM.json. Dependencies, separately supplied vendor libraries and hardware retain their own terms.
